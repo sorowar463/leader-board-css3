@@ -27,6 +27,49 @@ hr{
     margin-bottom: 27px;
 }
 
+/*-------------
+Top Navigation 
+--------------*/
+.bottom-bar{
+    background-color: #562EFF;
+    height: 94px;
+    align-items: center;
+}
+.bottom-detail{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 290px;
+    padding-top: 20PX;
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    width: 41px;
+    height: 51px;
+    padding-right: 10px;
+}
+.logo p{
+    color: #FFFFFF;
+}
+.head-link{
+    align-items: center;
+    display: flex;
+}
+.head-link h5{
+    color: #FFFFFF;
+
+    padding-right: 15px;
+    
+}
+.head-pic img{
+    align-items: center;
+    width: 51px;
+    height: 51px;
+    padding-right: 290PX;
+}
+
+
 /*--------------------
  Top Players Style 
  ---------------------*/
